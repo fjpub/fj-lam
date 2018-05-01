@@ -3,6 +3,6 @@
 
 Run "make" to create executable files.
 
-Run "make coverage" to generate statistics of code coverage.
+Run "make coverage" to run the tests and generate statistics of code coverage.
 
 Run "make clean" to clean generated files.
