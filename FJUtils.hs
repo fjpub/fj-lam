@@ -180,7 +180,10 @@ lambdaMark e _ = e
 
 
 -- Function: removeRuntimeAnnotation
-------------------------------------
+-- Objective: Remove runtime annotations in lambda expressions.
+-- Params: Expression.
+-- Returns: An expression without the runtime type annotations.
+---------------------------------------------------------------
 removeRuntimeAnnotation :: Expr -> Expr
 removeRuntimeAnnotation (FieldAccess e f) = 
   let e' = removeRuntimeAnnotation e
