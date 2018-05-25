@@ -1,5 +1,5 @@
 -- Haskell type checker for FJ + Lambda
--- Author: Anonymous Authors
+-- Author: Samuel da Silva Feitosa
 -- Date: 03/2018
 ---------------------------------------
 module V1.FJTypeChecker where
