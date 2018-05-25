@@ -1,5 +1,5 @@
 -- Haskell parser for FJ + Lambda
--- Author: Anonymous Authors
+-- Author: Samuel da Silva Feitosa
 -- Date: 03/2018
 ---------------------------------
 module FJParser where
