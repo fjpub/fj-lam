@@ -1,5 +1,5 @@
 -- Haskell interpreter for FJ + Lambda
--- Author: Anonymous Author
+-- Author: Samuel da Silva Feitosa
 -- Date: 02/2018
 --------------------------------------
 module V1.FJInterpreter where
