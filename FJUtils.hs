@@ -1,5 +1,5 @@
 -- Utilitary functions for FJ + Lambda interpreter
--- Author: Anonymous Authors
+-- Author: Samuel da Silva Feitosa
 -- Date: 03/2018
 --------------------------------------------------
 module FJUtils where
