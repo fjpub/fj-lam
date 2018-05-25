@@ -1,6 +1,6 @@
 {-# LANGUAGE TemplateHaskell #-}
 -- QuickCheck property-based testing for FJ + Lambda
--- Author: Anonymous Authors
+-- Author: Samuel da Silva Feitosa
 -- Date: 04/2018
 ----------------------------------------------------
 module Tests where
