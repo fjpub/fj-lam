@@ -1,5 +1,5 @@
 -- Random generators for FJ + Lambda
--- Author: Anonymous Authors
+-- Author: Samuel da Silva Feitosa
 -- Date: 04/2018
 ------------------------------------
 module FJGenerator where
