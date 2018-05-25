@@ -1,5 +1,5 @@
 # Property-based Testing for &lambda;-Expressions Semantics in Featherweight Java
-# Authors: Samuel Feitosa, Rodrigo Ribeiro, Andre Du Bois
+Authors: Samuel Feitosa, Rodrigo Ribeiro, Andre Du Bois
 # Interpreters and test suite 
 
 Run "make" to create executable files.
